@@ -1,3 +1,20 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10904</md:content-id>  <md:title>Quy hoạch sử dụng đất đai</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>vi</md:language>              <md:uuid>3ef8f52b-7077-4dea-905e-8a3f57eaf769</md:uuid>
-<md:slug>quy-hoach-su-dung-dat-dai</md:slug>
-</metadata>  <col:content>          <col:module document="m30138"/>                            <col:module document="m31105"/>                            <col:module document="m30448"/>                            <col:module document="m30150"/>                            <col:module document="m29974"/>                            <col:module document="m30019"/>                            <col:module document="m30638"/>                    </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="PGS. TS. L&#xEA; Quang Tr&#xED;">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10904</md:content-id>
+    <md:title>Quy ho&#x1EA1;ch s&#x1EED; d&#x1EE5;ng &#x111;&#x1EA5;t &#x111;ai</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>vi</md:language>
+    <md:uuid>3ef8f52b-7077-4dea-905e-8a3f57eaf769</md:uuid>
+    <md:slug>quy-hoach-su-dung-dat-dai</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m30138"/>
+    <col:module document="m31105"/>
+    <col:module document="m30448"/>
+    <col:module document="m30150"/>
+    <col:module document="m29974"/>
+    <col:module document="m30019"/>
+    <col:module document="m30638"/>
+  </col:content>
+</col:collection>
